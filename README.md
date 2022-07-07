@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @officialVencee
+- 👋 Hi, I’m Vencee
 - 👀 I’m interested in Web,Mobile and Desktop Development
-- 🌱 I’m currently learning Asp.Net Core Web Application, NodeJs,ReactJs
+- 🌱 I’m currently learning Web Application, NodeJs,ReactJs, Microservices
 
 <!---
 officialVencee/officialVencee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
