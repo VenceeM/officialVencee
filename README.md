@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vencee
 - 👀 I’m interested in Web,Mobile and Desktop Development
-- 🌱 I’m currently learning Web Application, NodeJs,ReactJs, Microservices
+- 🌱 I’m currently learning Web Application, NodeJs,ReactJs and Microservices
 
 <!---
 officialVencee/officialVencee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
